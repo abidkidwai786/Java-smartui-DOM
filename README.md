@@ -1,2 +1,2 @@
-# Java_SmartUI_array_of_URL
-This repo includes code on how to pass multiple URLs as an array for SmartUI visual regression test on LambdaTest.
+# Java_SmartUI_DOM
+This repo includes code on how to ignore DOM for the SmartUI visual regression test on LambdaTest.
